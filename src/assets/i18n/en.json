@@ -1,0 +1,13 @@
+{
+  "HOME": {
+    "COMPANY_NAME": "Geo Travel" 
+  },
+  
+  "NAVIGATE": {
+       "ABOUT": "ABOUT", 
+       "TOURS": "TOURS", 
+       "SERVICES": "SERVICES", 
+       "CONTACT": "CONTACT" 
+  }
+}
+

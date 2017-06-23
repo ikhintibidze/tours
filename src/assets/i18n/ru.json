@@ -1,0 +1,12 @@
+{
+  "HOME": {
+    "COMPANY_NAME": "гео тревел" 
+  },
+
+   "NAVIGATE": {
+       "ABOUT": "о нас", 
+       "TOURS": "тури", 
+       "SERVICES": "сервиси", 
+       "CONTACT": "контакт" 
+  }
+}
